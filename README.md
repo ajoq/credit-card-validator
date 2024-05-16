@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/5tpj8ydnimavv7d1?svg=true)](https://ci.appveyor.com/project/ajoq/credit-card-validator)
 
-https://ajoq.github.io/credit-card-validator/
+https://ajoq.github.io/js-credit-card-validator/
 
 ---
 
